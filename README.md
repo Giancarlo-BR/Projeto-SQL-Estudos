@@ -258,6 +258,6 @@ Este projeto foi criado para praticar:
 
 ---
 
-## Autor
+## Autor - Giancarlo Brandalise
 
 Projeto desenvolvido para estudo e prática de engenharia de dados e analytics.
